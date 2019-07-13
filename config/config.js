@@ -9,7 +9,7 @@ let config = {
   //   url: 'https://bmagic.fr'
   // },
   home: {
-    banner: '/static/img/bg-banner-al2018.jpg',
+    banner: '/static/img/bg-banner-al2019.png',
     twitterAccount: 'AtlanticLan17'
   },
   news: {
