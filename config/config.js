@@ -79,10 +79,10 @@ let config = {
   },
   contact: {
     active: true,
-    pageId: 6
+    pageId: 4007
   },
   press: {
-    active: true,
+    active: false,
     pageId: 7
   },
   legals: {
@@ -90,7 +90,7 @@ let config = {
     pageId: 8
   },
   recruit: {
-    active: true,
+    active: false,
     title: 'Recrutement',
     description: 'Devenir bénévole pour l\'Atlantic LAN 2018, c\'est par ici !!!',
     formUrl: 'https://goo.gl/forms/84pHQfSp50RcuUel2'
