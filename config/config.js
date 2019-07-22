@@ -14,7 +14,7 @@ let config = {
   },
   news: {
     title: 'Actualités',
-    description: 'Retrouvez toutes les actualités de l\'Atlantic LAN 2018',
+    description: 'Retrouvez toutes les actualités de l\'Atlantic LAN 2019',
     link: '/news'
   },
   partners: {
@@ -24,11 +24,11 @@ let config = {
   },
   tournaments: {
     title: 'Tournois',
-    description: 'Tous les tournois de l\'Atlantic LAN 2018',
+    description: 'Tous les tournois de l\'Atlantic LAN 2019',
     link: '/tournois'
   },
   info: {
-    title: 'Venir à la GA',
+    title: 'Venir à l\'Atlantic LAN',
     description: 'Toutes les informations sur cet évènement',
     link: '/infos'
   },
@@ -44,7 +44,7 @@ let config = {
   },
   tickets: {
     title: 'Billetterie',
-    description: 'Achetez vos places pour l\'Atlantic LAN 2018',
+    description: 'Achetez vos places pour l\'Atlantic LAN 2019',
     link: '/billetterie',
     pass: {
       title: 'Pass "Manager/Accompagnateur"',
@@ -64,17 +64,17 @@ let config = {
   },
   exhibitors: {
     title: 'Exposants',
-    description: 'Les exposants que vous pourrez retrouver à l\'Atlantic LAN 2018',
+    description: 'Les exposants que vous pourrez retrouver à l\'Atlantic LAN 2019',
     link: '/exposants'
   },
   family: {
     title: 'Espace Famille',
-    description: 'Les activités à faire en famille durant l\'Atlantic LAN 2018',
+    description: 'Les activités à faire en famille durant l\'Atlantic LAN 2019',
     link: '/espace-famille'
   },
   influencers: {
     title: 'VIPs',
-    description: 'Les personnalités qui seront présentes pour l\'Atlantic LAN 2018',
+    description: 'Les personnalités qui seront présentes pour l\'Atlantic LAN 2019',
     link: '/vips'
   },
   contact: {
@@ -92,7 +92,7 @@ let config = {
   recruit: {
     active: false,
     title: 'Recrutement',
-    description: 'Devenir bénévole pour l\'Atlantic LAN 2018, c\'est par ici !!!',
+    description: 'Devenir bénévole pour l\'Atlantic LAN 2019, c\'est par ici !!!',
     formUrl: 'https://goo.gl/forms/84pHQfSp50RcuUel2'
   },
   social: {
