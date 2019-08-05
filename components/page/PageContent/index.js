@@ -5,6 +5,7 @@ import PropTypes from 'prop-types'
 import getConfig from 'next/config'
 
 import Meta from 'components/common/Meta'
+import Accordion from 'components/common/Accordion'
 
 import './styles.scss'
 
