@@ -1,6 +1,6 @@
 let config = {
   title: 'Atlantic LAN 2019',
-  logo: `/static/img/logo-183x100.png`,
+  logo: `/static/img/logo-al.png`,
   description: 'Retrouvez l\'Atlantic LAN très prochainement',
   metaImagePath: `/static/img/logo-365x200.png`,
   gaTrackingId: 'UA-0000000-0',
