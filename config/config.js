@@ -87,7 +87,7 @@ let config = {
   },
   legals: {
     active: true,
-    pageId: 8
+    pageId: 4013
   },
   recruit: {
     active: false,
